@@ -21,9 +21,9 @@ This tool provides a clean, reliable serial bridge between the **ExpressLRS Conf
 
 ## 🛠 Hardware Requirements
 
-- **Waveshare RP2040‑Zero** https://amzn.to/47EOQJG
-- **ExpressLRS Receiver** (any UART‑based model) https://amzn.to/3NrMl6L
-- USB‑C cable https://amzn.to/3PcbGlL
+- <a href="https://amzn.to/47EOQJG" target="_blank">Waveshare RP2040‑Zero</a>
+- <a href="https://amzn.to/3NrMl6L" target="_blank">ExpressLRS Receiver (any UART‑based model)</a>
+- <a href="https://amzn.to/3PcbGlL" target="_blank">USB‑C cable</a>
 - 5V power supplied from the RP2040‑Zero to the receiver
 
 ---

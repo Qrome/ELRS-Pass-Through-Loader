@@ -76,7 +76,7 @@ This makes the RP2040‑Zero behave like a high‑speed USB‑to‑UART adapter 
 1. Connect the RP2040‑Zero to your PC via USB‑C.
 2. Wire the ELRS receiver to GPIO0/1, 5V, and GND.
 3. Open **ExpressLRS Configurator**.
-4. Select **Serial Passthrough** as the flashing method.
+4. Select **Betaflight Passthrough** as the flashing method.
 5. Choose the COM port corresponding to the RP2040‑Zero.
 6. Flash as normal.
 
